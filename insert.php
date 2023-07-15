@@ -11,8 +11,6 @@
         $query = mysqli_query($conn,$q);
 
     }
-
-
 ?>
 
 <!DOCTYPE html>
